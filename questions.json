@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "<span style='font-size:1.7vw'><b><u>Distinguish facts from opinions</u>:</b><br><br><ol type='I'><li> <span>A house in the USA is more costly than a house in Australia.</span></li><br><li><span> A house in Australia is more beautiful than a house in the USA.</span></li></ol></span>",
+        "options": [
+            "‘I’ is an opinion, ‘II’ is a fact ",
+            "‘II’ is an opinion, ‘I’ is a fact ",
+            "Both I and II are facts ",
+            "Both I and II are opinions"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "<b>Compare the tone of the following passages.</b><br><b><u>Excerpt1:</u></b><br>We left her standing upon the thin peninsula of firm, peaty soil which tapered out into the widespread bog.From the end of it a small wand planted here and there showed where the path zigzagged from tuft to tuft of rushes among those green-scummed pits and foul quagmires which barred the way to the stranger. Rank reeds and lush, slimy water-plants sent an odour of decay and a heavy miasmatic vapour onto our faces, while a false step plunged us more than once thigh-deep into the dark, quivering mire, which shook for yards in soft undulations around our feet. Its tenacious grip plucked at our heels as we walked, and when we sank into it it was as if some malignant hand was tugging us down into those obscene depths, so grim and purposeful was the clutch in which it held us.<br><b><u>Excerpt 2: </u></b><br> No wonder the poor devil of a convict ran and screamed, even as our friend did, and as we ourselves might have done, when he saw such a creature bounding through the darkness of the moor upon his track. It was a cunning device, for, apart from the chance of driving your victim to his death, what peasant would venture to inquire too closely into such a creature should he get sight of it, as many have done, upon the moor? I said it in London, Watson, and I say it again now, that never yet have we helped to hunt down a more dangerous man than he who is lying yonder”—he swept his long arm towards the huge mottled expanse of green splotched bog which stretched away until it merged into the russet slopes of the moor.<br><b style='color:blue'>Which excerpt is scary and apprehensive in tone?</b>",
+        "options": [
+            "Both 1 and 2",
+            "Only 1",
+            "Only 2",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "<span style='font-size:1.7vw'>Choose the evidence for the following claim<br><br><b>Poor Mortimer will never see his pet again.</b></span>",
+        "options": [
+            "In one of these a staple and chain with a quantity of gnawed bones showed where the animal had been confined.",
+            "A skeleton with a tangle of brown hair adhering to it lay among the débris.",
+            "“A dog!” said Holmes. “By Jove, a curly-haired spaniel.",
+            "Both B and C "
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "<span style='font-size:1.7vw'><b><u>Distinguish between fact and opinion.</u></b><br><br><ol type='I'><li>This paste in the tin is no doubt the luminous mixture with which the creature was daubed.</li><br><li> I said it in London, Watson, and I say it again now, that never yet have we helped to hunt down a more dangerous man than he who is lying yonder</li></ol></span>",
+        "options": [
+            "‘I’ is an opinion, ‘II’ is a fact ",
+            "‘II’ is an opinion, ‘I’ is a fact ",
+            "Both I and II are facts ",
+            "Both I and II are opinions"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Match the excerpts with their theme:<br><b><u>Excerpt 1:</u></b><br>Well, I do not know that this place contains any secrets which we have not already fathomed. He could hide his hound, but he could not hush its voice, and hence came those cries which even in daylight were not pleasant to hear. On an emergency he could keep the hound in the out-house at Merripit, but it was always a risk, and it was only on the supreme day, which he regarded as the end of all his efforts, that he dared do it.<br><br><b><u>Excerpt 2:</u></b><br>The fog-bank lay like white wool against the window. Holmes held the lamp towards it. “See,” he said. “No one could find his way into the Grimpen Mire tonight.” She laughed and clapped her hands. Her eyes and teeth gleamed with fierce merriment. “He may find his way in, but never out,” she cried. “How can he see the guiding wands tonight? We planted them together, he and I, to mark the pathway through the mire. Oh, if I could only have plucked them out today. Then indeed you would have had him at your mercy!”<br><br><b style='color:blue'>Which excerpt is scary and apprehensive in tone?</b>",
+        "options": [
+            "1-good versus evil,  2-revenge",
+            "1-realism, 2-gothic",
+            "1-realism, 2-revenge",
+            "None of the above"
+        ],
+        "correct": 2
+    }
+]
